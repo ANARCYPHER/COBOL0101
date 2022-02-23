@@ -1,7 +1,7 @@
       $ SET SOURCEFORMAT"FREE"
 IDENTIFICATION DIVISION.
 PROGRAM-ID.  DP173EXAM.
-AUTHOR.  Michael Coughlan.
+AUTHOR.  Cyber.
 *Originally written for VAX COBOL 1983
 *Converted to Microfocus COBOL 2002#
 *One of a series of "Big Brother" or security based specs
